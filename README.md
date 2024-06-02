@@ -1,22 +1,4 @@
 ## Hi there 👋
-
-<!--
-**ketlindelima/ketlindelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## &#128203; Ketlin de Lima
-
-
 ```
 using System;
  
@@ -34,20 +16,25 @@ class Greetings {
 ---
 ### &#128269; Sobre mim
 <p align="justify"> 
-> Me chamo Ketlin. Sou uma pessoa alegre que gosta de desfrutar de bons momentos com amigos e familiares. Adoro conhecer novas pessoas e compartilhar conhecimento sobre as mais diversas áreas. Com formação e conhecimento nas áreas de engenharia e de computação, tenho utilizado meus conhecimentos técnicos para o desenvolvimento de sistemas para áreas específicas. Possuo muita curiosidade e vontade de aprender! &#128516;
+👉 Me chamo Ketlin. Sou uma pessoa alegre que gosta de desfrutar de bons momentos com amigos e familiares. Adoro conhecer novas pessoas e compartilhar conhecimento sobre as mais diversas áreas. Com formação e conhecimento nas áreas de engenharia e de computação, tenho utilizado meus conhecimentos técnicos para o desenvolvimento de sistemas para áreas específicas. Possuo muita curiosidade e vontade de aprender! &#128516;
 </p>
 
-### Principais Interesses
 ---
-&#128378; Conhecer novas pessoas e fazer amigos 
+### Atuação na Tecnologia
 
-&#128187; Tecnologia
+- 🔭 Atualmente trabalhando como desenvolvedora Backend na área de geotecnologia
+- 🌱 Aprendendo .NET 
+- 👩‍🎓 Cursando pós graduação em Desenvolvimento de SIG
+- 🤖 Inteligência artificial em processamento de imagens
 
-&#129514; Ciência e Engenharia
+---
+### Principais Interesses Pessoais
 
-&#128214; Literatura
-
-&#129495; Aventuras e Esportes ao ar livre
+- &#128378; Conhecer novas pessoas e fazer amigos 
+- &#128187; Tecnologia
+- &#129514; Ciência e Engenharia
+- &#128214; Literatura
+- &#129495; Aventuras e Esportes ao ar livre
 
 
 ---
